@@ -26,3 +26,7 @@ https://community.connection.com/episode-133-from-chaos-to-clarity-ai-security-t
 
 ## Frontline Cybersecurity: Trends, Impacts, and Zero Trust Insights
 https://community.connection.com/techsperience-episode-132-frontline-cybersecurity-trends-impacts-and-zero-trust-insights/
+
+----------
+
+**[Connection Security Services](https://www.connection.com/solutions-services/cybersecurity)** — External Link to Connection's Professional, Advisory, and Managed Security Services
