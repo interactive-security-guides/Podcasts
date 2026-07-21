@@ -1,5 +1,11 @@
 # Podcasts
 
+## Ripple Security Logic for Protecting the Interconnected Healthcare Ecosystem
+https://cnxn.podbean.com/e/episode-147-ripple-security-logic-for-protecting-the-interconnected-healthcare-ecosystem/
+
+## RSAC 2026 Unplugged – What You Need To Do Now
+https://cnxn.podbean.com/e/episode-146-rsac-2026-unplugged-%e2%80%93-what-you-need-to-do-now/
+
 ## How Global Tensions Are Exposing Critical Infrastructure to Cyber Risk
 https://community.connection.com/techsperience-episode-145-how-global-tensions-are-exposing-critical-infrastructure-to-cyber-risk/
 
