@@ -35,4 +35,4 @@ https://community.connection.com/techsperience-episode-132-frontline-cybersecuri
 
 ----------
 
-!-- **[Connection Security Services](https://www.connection.com/solutions-services/cybersecurity)** — External Link to Connection's Professional, Advisory, and Managed Security Services --!
+<!-- **[Connection Security Services](https://www.connection.com/solutions-services/cybersecurity)** — External Link to Connection's Professional, Advisory, and Managed Security Services -->
